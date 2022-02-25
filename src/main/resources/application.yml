@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: telia-test-service
+  data:
+    mongodb:
+      uri: mongodb://localhost/telia_db
+
+server:
+  port: 8080
+
